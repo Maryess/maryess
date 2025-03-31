@@ -1,4 +1,6 @@
-![Y2k GIF - Y2K - Discover   Share GIFs](https://github.com/user-attachments/assets/75555aa7-9e94-4c3c-929a-8d6aeccdf13e)
+<div align="center">
+   ![Y2k GIF - Y2K - Discover   Share GIFs](https://github.com/user-attachments/assets/75555aa7-9e94-4c3c-929a-8d6aeccdf13e)
+</div>
 
 # 💫 Hi, I'm Masha:
 Beginner frontend developer. I'm 19. I love to learn something new and I want to become a good developer. 
