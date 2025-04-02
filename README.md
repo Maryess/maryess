@@ -1,6 +1,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Y2k GIF - Y2K - Discover   Share GIFs](https://github.com/user-attachments/assets/75555aa7-9e94-4c3c-929a-8d6aeccdf13e)
-
+<p align="center">
+  <img src="![Y2k GIF - Y2K - Discover   Share GIFs](https://github.com/user-attachments/assets/95c06123-7880-49df-a138-c2375bb5cdc2)" alt=""/>
+</p>
 
 # 💫 Hi, I'm Masha:
 Beginner frontend developer. I'm 19.
