@@ -1,5 +1,14 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img width="528" alt="Снимок экрана 2025-04-28 в 21 48 33" src="https://github.com/user-attachments/assets/3c31b9a4-808f-44d2-bea5-878e60b89c14" />
+<img width="528" alt="Снимок экрана 2025-04-28 в 21 48 33" src="https://github.com/user-attachments/assets/3c31b9a4-808f-44d2-bea5-878e60b89c14" style="
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 90%;
+    max-height: 90vh;
+    z-index: 9999;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); 
+  "  />
 
 
 # 💫 Hi, I'm Masha:
