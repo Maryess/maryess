@@ -1,9 +1,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img width="528" alt="Снимок экрана 2025-04-28 в 21 48 33" src="https://github.com/user-attachments/assets/3c31b9a4-808f-44d2-bea5-878e60b89c14" style="
-    display:flex;
-    align-items:center;
-    justify-content:center;
-  "  />
+<div align="center">
+  <img width="528" alt="Снимок экрана" src="https://github.com/user-attachments/assets/3c31b9a4-808f-44d2-bea5-878e60b89c14" />
+</div>
 
 
 # 💫 Hi, I'm Masha:
