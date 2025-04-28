@@ -1,7 +1,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
   <img width="528" alt="Снимок экрана" src="https://github.com/user-attachments/assets/3c31b9a4-808f-44d2-bea5-878e60b89c14" />
-  ![Котик-программист](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" alt="Котик за компьютером" />
 </div>
 
 <div>
