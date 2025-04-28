@@ -56,8 +56,35 @@
 
 # 📊 GitHub Stats:
 
-| ![Статистика](https://github-readme-stats.vercel.app/api?username=maryess&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Стрик](https://nirzak-streak-stats.vercel.app/?user=maryess&theme=dark&hide_border=false)|
-![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=maryess&theme=dark&hide_border=false&layout=compact)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="528" alt="Снимок экрана" src="https://github.com/user-attachments/assets/3c31b9a4-808f-44d2-bea5-878e60b89c14](https://github-readme-stats.vercel.app/api?username=maryess&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" />
+    </td>
+    <td align="center">
+      <img width="420" src="https://github.com/user-attachments/assets/b056789a-40df-4bec-b8fb-b41a5c2c7bbe" />
+    </td>
+  </tr>
+</table>
+
+# 📊 GitHub Stats:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=maryess&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=maryess&theme=dark&hide_border=false" />
+    </td>
+  </tr>
+  <!-- Вторая строка - языки (объединенная ячейка) -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryess&theme=dark&hide_border=false&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryess/maryess/output/github-snake-dark.svg" />
