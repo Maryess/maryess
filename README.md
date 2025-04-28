@@ -5,7 +5,7 @@
       <img width="528" alt="Снимок экрана" src="https://github.com/user-attachments/assets/3c31b9a4-808f-44d2-bea5-878e60b89c14" />
     </td>
     <td align="center">
-      <img width="420" src="https://github.com/user-attachments/assets/b056789a-40df-4bec-b8fb-b41a5c2c7bbe" />
+      <img width="400" src="https://github.com/user-attachments/assets/b056789a-40df-4bec-b8fb-b41a5c2c7bbe" />
     </td>
   </tr>
 </table>
