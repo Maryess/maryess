@@ -56,19 +56,6 @@
 
 # 📊 GitHub Stats:
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="528" alt="Снимок экрана" src="https://github.com/user-attachments/assets/3c31b9a4-808f-44d2-bea5-878e60b89c14](https://github-readme-stats.vercel.app/api?username=maryess&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" />
-    </td>
-    <td align="center">
-      <img width="420" src="https://github.com/user-attachments/assets/b056789a-40df-4bec-b8fb-b41a5c2c7bbe" />
-    </td>
-  </tr>
-</table>
-
-# 📊 GitHub Stats:
-
 <table>
   <tr>
     <td align="center">
