@@ -47,15 +47,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
 
-###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maryess&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=maryess&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maryess&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=maryess&icon=0&color=0)](https://visitcount.itsvg.in)
+| ![Статистика](https://github-readme-stats.vercel.app/api?username=maryess&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Стрик](https://nirzak-streak-stats.vercel.app/?user=maryess&theme=dark&hide_border=false) | ![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=maryess&theme=dark&hide_border=false&layout=compact) |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryess/maryess/output/github-snake-dark.svg" />
