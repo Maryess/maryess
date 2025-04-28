@@ -1,8 +1,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
   <img width="528" alt="Снимок экрана" src="https://github.com/user-attachments/assets/3c31b9a4-808f-44d2-bea5-878e60b89c14" />
-![Trending GIF cat fight mood mad internet upset glasses computer reading comments read laptop bs moody the internet timeline Tl computer cat moody cat cat wearing glasses glasses cat reading some bs](https://github.com/user-attachments/assets/2ed300d1-66d1-4596-9768-e28a3b0540ea)
-
+  ![Trending GIF cat fight mood...](https://github.com/user-attachments/assets/2ed300d1-66d1-4596-9768-e28a3b0540ea)
 </div>
 
 <div>
