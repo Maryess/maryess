@@ -1,7 +1,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
   <img width="528" alt="Снимок экрана" src="https://github.com/user-attachments/assets/3c31b9a4-808f-44d2-bea5-878e60b89c14" />
-  <img alt="кот" src="https://github.com/user-attachments/assets/fc4e2dd7-089a-4a91-8c13-b0cd60b0e1a4"/>
+  <img width="528" alt="кот" src="https://github.com/user-attachments/assets/fc4e2dd7-089a-4a91-8c13-b0cd60b0e1a4"/>
 </div>
 
 <div>
