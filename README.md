@@ -49,8 +49,9 @@
 
 # 📊 GitHub Stats:
 
-| ![Статистика](https://github-readme-stats.vercel.app/api?username=maryess&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Стрик](https://nirzak-streak-stats.vercel.app/?user=maryess&theme=dark&hide_border=false) | ![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=maryess&theme=dark&hide_border=false&layout=compact) |
+| ![Статистика](https://github-readme-stats.vercel.app/api?username=maryess&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Стрик](https://nirzak-streak-stats.vercel.app/?user=maryess&theme=dark&hide_border=false)|
 |:----------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|
+![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=maryess&theme=dark&hide_border=false&layout=compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryess/maryess/output/github-snake-dark.svg" />
