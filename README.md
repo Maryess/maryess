@@ -12,7 +12,7 @@
 
 <div>
   <h1>💫I'm Masha:</h1>
-  <p>Beginner full stack developer, student. My hobbies:</p>
+  <p>Beginner fullstack developer, student. My hobbies:</p>
   <ul>
     <li>Read a lot(if it's fantasy or romancy or detective stories and, of course, if it's programming)</li>
     <li>Like to draw (not often)</li>
